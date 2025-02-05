@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.0",
-    "SoftwareUrl":"",
+    "RocketVersion": "1.0.1",
+    "RocketUrl":"",
     "Status":"True",
-    "Changelog":"[+] added blank"
+    "Changelog":"[+] Novo script hub"
 }
